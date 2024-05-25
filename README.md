@@ -1,4 +1,7 @@
+![git-cover](https://github.com/johnchourajr/font-file-separatornator/assets/6431920/b22f878d-539e-49aa-92d1-d24c10d32ac0)
+
 # Font File Separatornator
+
 > Have you ever downloaded a new font family or trial font bundle and been like, “ugh, just give me the TTF files from these font folders”? Well today is your lucky day. Meet Font_File_Separatornator.sh, the shell script for all your font separating needs.
 
 The Font File Separatornator is a shell script that organizes your font files into separate directories based on their file type (.ttf, .woff2, .otf).
