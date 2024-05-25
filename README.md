@@ -48,4 +48,4 @@ all WOFF2s: Contains all .woff2 files.
 all OTFs: Contains all .otf files.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/johnchourajr/font-file-separatornator/blob/main/LICENSE) file for details.
