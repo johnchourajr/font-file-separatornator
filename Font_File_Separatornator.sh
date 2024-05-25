@@ -1,5 +1,7 @@
 # Font_File_Separatornator.sh
-# v.1.0.0
+# Version: 1.0.0
+# Author: John Choura
+# License: This project is licensed under the MIT License (https://github.com/johnchourajr/font-file-separatornator/blob/main/LICENSE).
 # ------------------------------------------------
 # Instructions:
 #   cd to the path of the scipt
